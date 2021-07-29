@@ -1,0 +1,25 @@
+.page-info {
+  margin: 0 auto;
+  padding: 3rem 0 2rem 0;
+  width: 100%;
+  max-width: 768px;
+  height: auto;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.title {
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0.2rem;
+}
+
+.break-line {
+  margin: 2rem 0;
+  width: 2rem;
+}
+
+.para {
+  font-size: 0.9rem;
+}
